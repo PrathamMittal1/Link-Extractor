@@ -88,7 +88,7 @@ o	The app provides feedback to the user during processing using a toast message 
  
 
 ## Control Flow Diagram
-![alt text](https://github.com/onelogica-com/link_extracter/blob/main/Flow%20diagram.bmp)
+![alt text](https://github.com/PrathamMittal1/Link-Extractor/blob/main/Images/Flow%20diagram.bmp)
  
 ## Future Enhancements:
 1.	Enhanced Visualizations: <br/>
