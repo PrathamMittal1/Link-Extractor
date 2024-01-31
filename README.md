@@ -22,7 +22,7 @@ To extract URLs
 To generate previews
 
 •	One way is to pass the URL to the LLM and ask the LLM to summarize the content of webpage briefly. <br/>
-•	Another way is to Web crawl to extract the natural language from the URL html (by paragraphs <p>). Execute the summarize class algorithm (implemented using NLTK) on the extracted sentences. <br/>
+•	Another way is to Web crawl to extract the natural language from the URL html (by paragraphs). Execute the summarize class algorithm (implemented using NLTK) on the extracted sentences. <br/>
 
 
 ## Benefits and Usage
